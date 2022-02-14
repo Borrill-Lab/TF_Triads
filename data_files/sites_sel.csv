@@ -1,0 +1,9 @@
+﻿Class,Type,Yes,No
+TF,Sweep sites,16,3126
+TF,Introgression sites,176,2966
+TF,Environmental adaptation sites,1795,1347
+TF,Improvement selection sites,574,2568
+non-TF,Sweep sites,421,51198
+non-TF,Introgression sites,2815,48804
+non-TF,Environmental adaptation sites,31860,19759
+non-TF,Improvement selection sites,9776,41843
