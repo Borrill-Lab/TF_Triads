@@ -2,7 +2,7 @@
 
 This repository contains scripts and data used in the manuscript:
 
-“Transcription factor retention through multiple polyploidisation steps in wheat” by Catherine EB Evans, Ramesh Arunkumar, Philippa Borrill
+“Transcription factor retention through multiple polyploidisation steps in wheat” by Catherine EB Evans, Ramesh Arunkumar, Philippa Borrill https://doi.org/10.1093/g3journal/jkac147
 
 # Data
 Data files used across multiple analyses are in <a href="https://github.com/Borrill-Lab/TF_Triads/tree/main/data_files">data_files</a>. NB additional input files are found in the folders for individual analyses below. 
