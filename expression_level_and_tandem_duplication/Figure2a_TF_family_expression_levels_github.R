@@ -11,7 +11,7 @@ library("ggrepel")
 ## do this analysis with Choulet Chinese Spring data 
 
 # input tpms:
-tpm_input_file <- "choulet_URGI_tpm.tsv" # tpm file available from https://opendata.earlham.ac.uk/wheat/under_license/toronto/Ramirez-Gonzalez_etal_2018-06025-Transcriptome-Landscape/expvip/RefSeq_1.1/ByTranscript/
+tpm_input_file <- "choulet_URGI_tpm.tsv" # tpm file available from https://opendata.earlham.ac.uk/wheat/under_license/toronto/Ramirez-Gonzalez_etal_2018-06025-Transcriptome-Landscape/expvip/RefSeq_1.1/ByGene/
 
 # load tpms
 tpms <- read.table(file=tpm_input_file,sep = "\t", header=T)
